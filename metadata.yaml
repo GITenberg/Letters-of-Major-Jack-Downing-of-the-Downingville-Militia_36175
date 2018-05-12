@@ -1,0 +1,32 @@
+_repo: Letters-of-Major-Jack-Downing-of-the-Downingville-Militia_36175
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Seba
+    aliases:
+    - Downing, Jack
+    - Smith, John
+    birthdate: 1792
+    deathdate: 1868
+    gutenberg_agent_id: '38116'
+    url: http://www.gutenberg.org/2009/agents/38116
+    wikipedia: http://en.wikipedia.org/wiki/Seba_Smith
+description: ''
+gutenberg_issued: '2011-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36175'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Humor'
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Caricatures and cartoons'
+title: Letters of Major Jack Downing, of the Downingville Militia
+url: http://www.gutenberg.org/ebooks/36175
